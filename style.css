@@ -1,0 +1,17 @@
+/**.container{
+ width: 70%;
+  margin: auto;
+  text-align: center;
+}**/
+
+
+body {
+    background-color: #393E46;
+  }
+
+
+.head{
+text-align: center;
+color:aqua;
+
+}

@@ -1,0 +1,69 @@
+
+
+
+body {
+    background-color: #393E46;
+  }
+
+
+.head{
+text-align: center;
+color:#4ECCA3;
+font-size: 6rem;
+font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+margin-top: 5%;
+
+}
+
+.fhead{
+    text-align: center;
+    color:#4ECCA3;
+font-size: 2rem;
+font-family: 'Lobster', cursive;
+position: absolute;
+left: 550px;
+
+
+}
+
+
+
+.shead{
+  text-align: center;
+  color:#4ECCA3;
+font-size: 2rem;
+font-family: 'Lobster', cursive;
+position: absolute;
+left: 840px;
+
+}
+
+.fimg{
+  position: absolute;
+  left: 430px;
+  bottom: 130px;
+ 
+  
+  
+  }
+
+.simg{
+  position: absolute;
+  left: 780px;
+  bottom: 130px;
+}
+
+
+.app{
+   color: white;
+    text-align: center;
+    margin-top: 10%;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.2rem;
+    position: absolute;
+    bottom: 1px; 
+    left: 650px; 
+
+}
+
